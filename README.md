@@ -1,3 +1,3 @@
 # aframe_workshop
 
-1st Aframe project. 2 pictures of cylinder, sphere and box
+1st Aframe project. 2 pictures of cylinder, sphere and box.
